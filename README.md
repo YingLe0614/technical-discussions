@@ -10,3 +10,7 @@ This is a demo repo for sharing ideas around
 ### Gist
 
 This is a good example of [my code](https://gist.github.com/YingLe0614/26a358298bb540717dd81e720e1ce8dd)
+
+### Colab Example
+
+This is the [notebook](https://github.com/YingLe0614/technical-discussions/blob/2e2b196932c4f3b03cc5572ce344c4269dfb084d/technical_docs.ipynb)
