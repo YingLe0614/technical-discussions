@@ -17,3 +17,6 @@ This is the [notebook](https://github.com/YingLe0614/technical-discussions/blob/
 
 ## Images
 ![Image](https://github.com/user-attachments/assets/494ae51e-f23c-41a4-8364-a86f8eb01554)
+
+## Practice
+Practice [here](https://www.coursera.org/learn/cloud-computing-foundations-duke/ungradedLab/jsPqx/create-markdown-in-jupyter/lab?path=%2Fnotebooks%2FPractice-Markdown.ipynb)
